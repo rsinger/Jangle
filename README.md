@@ -4,9 +4,9 @@ Jangle is a specification for applying the Atom Publishing Protocol (AtomPub) to
 
 There are three basic principles that define Jangle:
 
-    The library information model is broken up into four discrete concepts or entities: Actors, Resources, Items and Collections.
-    The Jangle architecture is divided into two components, the Jangle core: the public facing AtomPub interface; and one or many connectors: applications that contain the business logic for translating specific systems into Jangle.
-    The Jangle core and connectors communicate via an HTTP REST API using a defined JSON syntax.
+* The library information model is broken up into four discrete concepts or entities: Actors, Resources, Items and Collections.
+* The Jangle architecture is divided into two components, the Jangle core: the public facing AtomPub interface; and one or many connectors: applications that contain the business logic for translating specific systems into Jangle.
+* The Jangle core and connectors communicate via an HTTP REST API using a defined JSON syntax.
 
 For search (which is optional), Jangle employs OpenSearch and the Atom Syndication Format for search results and CQL to provide specificity and a common vocabulary of indexes among implementations.
 
