@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1071/trunk/external_interfaces/UnAPI
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1071/trunk/external_interfaces/UnAPI/config.yml
+END
+unapi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1066/trunk/external_interfaces/UnAPI/unapi.rb
+END

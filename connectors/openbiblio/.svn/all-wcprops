@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1100/trunk/connectors/openbiblio
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1076/trunk/connectors/openbiblio/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1094/trunk/connectors/openbiblio/index.php
+END

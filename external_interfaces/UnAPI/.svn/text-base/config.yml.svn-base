@@ -1,0 +1,3 @@
+jangle_server: 
+    base_uri: http://localhost:6767/
+    format_argument: format

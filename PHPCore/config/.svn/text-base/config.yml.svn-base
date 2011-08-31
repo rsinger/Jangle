@@ -1,0 +1,14 @@
+server:
+    base_url:  http://localhost/jangle/
+services:
+    openbiblio:
+        connector_url:  http://localhost/openbiblio/
+        description: OpenBiblio ILS 
+    talislms:
+        connector_url:  http://localhost:8080/TalisLMSConnector/
+        description: Alto 
+        
+cache_location:
+    directory: "./cache"
+    function: functions
+    page: pages

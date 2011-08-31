@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/1041/trunk/xsl
+END
+AtomMARC21slim2OAIDC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1040/trunk/xsl/AtomMARC21slim2OAIDC.xsl
+END
+AtomMARC21slim2RDFDC.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1041/trunk/xsl/AtomMARC21slim2RDFDC.xsl
+END
+skywalk2json.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1037/trunk/xsl/skywalk2json.xsl
+END
+AtomMARC21slim2MODS3-2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1040/trunk/xsl/AtomMARC21slim2MODS3-2.xsl
+END
+identity.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1023/trunk/xsl/identity.xsl
+END

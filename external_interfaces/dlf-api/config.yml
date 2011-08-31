@@ -1,0 +1,10 @@
+jangle_url: http://demo.jangle.org/
+repo_hostname: dlf-api.jangle.org
+bibliographic_records:
+    resource_uri: http://demo.jangle.org/openbiblio/resources/-/opac/
+    search_uri: http://demo.jangle.org/openbiblio/resources/search/
+    from_index: rec.lastModificationDate
+    until_index: rec.lastModificationDate
+    sort_index: rec.lastModificationDate
+    sort_modifier: descending
+    extra_args: rec.collectionName = opac

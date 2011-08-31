@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1071/trunk/external_interfaces/dlf-api
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1050/trunk/external_interfaces/dlf-api/LICENSE.txt
+END
+ilsapi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1071/trunk/external_interfaces/dlf-api/ilsapi.rb
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1064/trunk/external_interfaces/dlf-api/config.yml
+END

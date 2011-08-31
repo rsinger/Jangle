@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1100/trunk/connectors/openbiblio/lib
+END
+cqlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1075/trunk/connectors/openbiblio/lib/cqlParser.php
+END
+jangle.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1100/trunk/connectors/openbiblio/lib/jangle.php
+END
+models.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1117/trunk/connectors/openbiblio/lib/models.php
+END
+spyc.php5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1075/trunk/connectors/openbiblio/lib/spyc.php5
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1080/trunk/jangler/jangle_core/views
+END
+opensearchdescription.builder
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1051/trunk/jangler/jangle_core/views/opensearchdescription.builder
+END
+service_document.builder
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1080/trunk/jangler/jangle_core/views/service_document.builder
+END
+explain.builder
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1063/trunk/jangler/jangle_core/views/explain.builder
+END
+feed.builder
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1116/trunk/jangler/jangle_core/views/feed.builder
+END

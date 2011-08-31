@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1070/trunk/jangler/lib/jangle
+END
+vcard.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1051/trunk/jangler/lib/jangle/vcard.rb
+END
+responses.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1065/trunk/jangler/lib/jangle/responses.rb
+END
+models.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1064/trunk/jangler/lib/jangle/models.rb
+END
+connector.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1070/trunk/jangler/lib/jangle/connector.rb
+END
